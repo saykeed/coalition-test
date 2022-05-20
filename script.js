@@ -1,7 +1,7 @@
 
 let imgSlider = document.querySelector('.history img')
 let indicator = document.querySelectorAll('.footer .slideIndicator span')
-let imgs = ['/img/peak.png', '/img/caromount.png', '/img/caroperson.png'];
+let imgs = ['img/peak.png', 'img/caromount.png', 'img/caroperson.png'];
 let time = 3000
 let i = 0;
 

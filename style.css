@@ -163,7 +163,7 @@ div.history .footer{
     width: 30%;
     height: 80px;
     max-width: 150px;
-    background-image: url('/img/peak.png');
+    background-image: url('img/peak.png');
     background-size: cover;
     background-position: top center;
 }
@@ -172,7 +172,7 @@ div.history .footer{
     width: 30%;
     height: 80px;
     max-width: 150px;
-    background-image: url('/img/caromount.png');
+    background-image: url('img/caromount.png');
     background-size: cover;
     background-position: top center;
 }
@@ -181,7 +181,7 @@ div.history .footer{
     width: 30%;
     height: 80px;
     max-width: 150px;
-    background-image: url('/img/caroperson.png');
+    background-image: url('img/caroperson.png');
     background-size: cover;
     background-position: top center;
 }
