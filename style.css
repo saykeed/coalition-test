@@ -12,12 +12,13 @@
 
 .header{
     position: relative;
+    height: 60vh;
+    overflow: hidden;
 }
 
 .header img.heroImg{
     width: 100%;
-    height: 60vh;
-    max-height: 80vh;
+    height: 100%;
     object-fit: cover;
     object-position: top center;
 }
@@ -96,11 +97,12 @@ div.section ul li a{
 
 div.history{
     position: relative;
+    height: 60vh;
 }
 
 div.history img{
     width: 100%;
-    height: 60vh;
+    height: 100%;
     object-fit: cover;
     object-position: top center;
 }
@@ -302,11 +304,11 @@ div.pageFooter{
 
 /*for the responsieve screen of sm and above*/
 @media screen and (min-width:700px){
-    .header img.heroImg{
+    .header{
         height: 80vh;
     }
 
-    div.history img{
+    div.history{
         height: 85vh;
     }
 
