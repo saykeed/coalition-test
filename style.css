@@ -255,11 +255,11 @@ div.schedule img{
 div.scheduleBox{
     position: absolute;
     top: 20%;
-    left: 15%;
+    left: 10%;
     padding: 10px 20px;
     background: white;
-    width: 80%;
-    max-width: 220px;
+    width: 90%;
+    max-width: 250px;
 }
 .scheduleBox h2{
     color: rgba(26, 26, 39, 0.768);
@@ -270,7 +270,7 @@ div.scheduleBox{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    font-size: 12px;
+    font-size: 11px;
     margin: 10px 0;
 }
 
