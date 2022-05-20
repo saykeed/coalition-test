@@ -33,6 +33,7 @@
     max-width: 600px;
     left: 50%;
     transform: translateX(-50%);
+    padding: 0 2%;
 }
 
 div.nav img{
@@ -67,6 +68,7 @@ div.section{
     max-width: 600px;
     background-color: white;
     margin: 0 auto;
+    padding: 0 2%;
 }
 
 div.section img{
